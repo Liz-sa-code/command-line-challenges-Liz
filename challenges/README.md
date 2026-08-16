@@ -100,3 +100,9 @@
     ./hello_executable
 
 * roda "hello_executable"
+
+# problema 21 - b
+    chmod +x challenge_20
+    ./challenge_20
+
+* roda o "challenge_20"
