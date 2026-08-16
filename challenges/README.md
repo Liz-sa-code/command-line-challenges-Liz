@@ -22,3 +22,8 @@
     mkdir -p foo/bar/1/2/3
 
 * cria um novo diretório com estrutura foo/bar/1/2/3
+
+# problema 6 - b
+    rm-rf foo
+
+* apaga o repositório foo e todos seus conteúdos
