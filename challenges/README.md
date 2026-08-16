@@ -13,3 +13,7 @@
 
 * lista os conteúdos do repositório
 
+# problema 4 - b
+    mkdir foo
+
+* cria um novo repositório chamado "foo"
