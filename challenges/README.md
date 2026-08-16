@@ -7,3 +7,9 @@
     cd challenges
 
 * muda o diretório para "challenges"
+
+# problema 3 - b
+    ls
+
+* lista os conteúdos do repositório
+
