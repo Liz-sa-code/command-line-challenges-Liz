@@ -52,3 +52,8 @@
     : > empty.txt
 
 * 2° maneira de criar um arquivo vazio
+
+# problema 12 - I
+    printf ' ' > empty.txt
+
+* 3° maneira de criar um arquivo vazio
