@@ -90,3 +90,8 @@
     ls -l
 
 * lista os conteúdos do diretório, mostrando as permissões para cada arquivo
+
+# problema 19 - b 
+    echo "Hello World " >> restricted.txt
+
+acrescenta Hello World ao final de restricted.txt
