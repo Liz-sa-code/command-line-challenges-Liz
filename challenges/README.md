@@ -43,3 +43,7 @@
 
 * cria um arquivo vazio 
 
+# problema 10 - b
+    rm empty.txt
+
+* apaga o arquivo empty.txt    
