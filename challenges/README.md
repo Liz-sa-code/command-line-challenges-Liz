@@ -94,4 +94,9 @@
 # problema 19 - b 
     echo "Hello World " >> restricted.txt
 
-acrescenta Hello World ao final de restricted.txt
+* acrescenta Hello World ao final de restricted.txt
+
+# problema 20 - b
+    ./hello_executable
+
+* roda "hello_executable"
