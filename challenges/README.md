@@ -17,3 +17,8 @@
     mkdir foo
 
 * cria um novo repositório chamado "foo"
+
+# problema 5 - I 
+    mkdir -p foo/bar/1/2/3
+
+* cria um novo diretório com estrutura foo/bar/1/2/3
