@@ -80,3 +80,8 @@
 * concatena os dois arquivos
     cat 2_hellos.txt
 * conferir
+
+# problema 17 - b  
+    pwd 
+
+* mostra o caminho completo do diretório
