@@ -72,3 +72,11 @@
     diff hello.txt hello_copy.txt
 
 * prova que os arquivos são iguais
+
+# problema 16 - b
+    cat hello.txt hello_copy > 2_hellos.txt
+
+
+* concatena os dois arquivos
+    cat 2_hellos.txt
+* conferir
