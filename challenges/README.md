@@ -38,3 +38,8 @@
 
 * cria um arquivo hello.txt com Hello World dentro
 
+# problema 9 - b 
+    touch empty.txt
+
+* cria um arquivo vazio 
+
