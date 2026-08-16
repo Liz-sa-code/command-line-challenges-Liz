@@ -27,3 +27,8 @@
     rm-rf foo
 
 * apaga o repositório foo e todos seus conteúdos
+
+# problema 7 - b
+    echo "Hello World"
+
+*  printa hello world
