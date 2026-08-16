@@ -68,3 +68,7 @@
 
 * renomeia goodbye.txt para hello_copy.txt
 
+# problema 15 - I
+    diff hello.txt hello_copy.txt
+
+* prova que os arquivos são iguais
