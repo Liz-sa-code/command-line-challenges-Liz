@@ -47,3 +47,8 @@
     rm empty.txt
 
 * apaga o arquivo empty.txt    
+
+# problema 11 - I 
+    : > empty.txt
+
+* 2° maneira de criar um arquivo vazio
