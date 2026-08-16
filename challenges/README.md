@@ -32,3 +32,9 @@
     echo "Hello World"
 
 *  printa hello world
+
+# problema 8 - b
+    echo Hello World > hello.txt
+
+* cria um arquivo hello.txt com Hello World dentro
+
