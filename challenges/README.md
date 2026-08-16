@@ -85,3 +85,8 @@
     pwd 
 
 * mostra o caminho completo do diretório
+
+# problema 18 - b
+    ls -l
+
+* lista os conteúdos do diretório, mostrando as permissões para cada arquivo
