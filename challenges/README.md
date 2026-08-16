@@ -57,3 +57,14 @@
     printf ' ' > empty.txt
 
 * 3° maneira de criar um arquivo vazio
+
+# problema 13 - b 
+    cp hello.txt goodbye.txt
+
+* copia hello.txt para goodbye.txt
+
+# problema 14 - b
+    mv goodbye.txt hello_copy.txt
+
+* renomeia goodbye.txt para hello_copy.txt
+
