@@ -2,3 +2,13 @@
     tar -xzf challenges.tar.gz
 
 * descompacta a pasta challenges.tar.gz
+
+# problema 2 - b
+    cd challenges
+
+* muda o diretório para "challenges"
+
+# problema 3 - b
+    ls
+
+* lista os conteúdos do repositório
