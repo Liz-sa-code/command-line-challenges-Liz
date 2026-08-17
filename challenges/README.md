@@ -146,3 +146,8 @@
     head -n 25 people.csv
 
 * mostra as primeiras 25 linhas do people.csv
+
+# problema 30 - b
+    tail -n 25 people.csv
+
+* mostra as últimas 25 linhas do people.csv
