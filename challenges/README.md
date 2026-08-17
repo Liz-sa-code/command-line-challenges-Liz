@@ -122,3 +122,7 @@
 
 * mostra a data e hora
 
+# problema 25 - b
+    ps aux
+
+* mostra todos os processos
