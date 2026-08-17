@@ -223,3 +223,8 @@
     find . -mindepth 1 -maxdepth 1 -type d | wc -l
 
 * conta os subdiretórios
+
+# problema 45 - I 
+    find . -type f -name '*deleteme*' -delete
+
+* remove os arquivos que tenham deleteme no nome
