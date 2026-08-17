@@ -202,3 +202,9 @@
     cut -d',' -f2 people.csv | sed '1d' | sort -u | wc -l
 
 * segunda forma de excluir o cabeçalho
+
+# problema 41 - a
+    time cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
+    time cut -d',' -f2 people.csv | sed '1d' | sort -u | wc -l
+
+* compara qual método é mais rápido 
