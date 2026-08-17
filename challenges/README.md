@@ -182,3 +182,7 @@
 
 * mostra README.txt de trás para frente
 
+# problema 37 - I
+    cut -d',' -f2 people.csv
+
+* mostra todos os sobrenomes na segunda coluna do arquivo people.csv
