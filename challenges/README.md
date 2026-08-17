@@ -116,3 +116,9 @@
     ./redirect > output.txt 2>&1
 
 * coloca toda a saida do redirect no output.txt
+
+# problema 24 - b
+    date
+
+* mostra a data e hora
+
