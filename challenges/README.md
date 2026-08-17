@@ -107,7 +107,12 @@
 
 * roda o "challenge_20"
 
-# programa 22 - b
+# problema 22 - b
     gcc compile_me.c -o compile_me && ./compile_me
 
 * compila e ecevuta o compile_me.c
+
+# problema 23 - a
+    ./redirect > output.txt 2>&1
+
+* coloca toda a saida do redirect no output.txt
