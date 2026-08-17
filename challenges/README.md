@@ -106,3 +106,8 @@
     ./challenge_20
 
 * roda o "challenge_20"
+
+# programa 22 - b
+    gcc compile_me.c -o compile_me && ./compile_me
+
+* compila e ecevuta o compile_me.c
