@@ -172,3 +172,7 @@
 
 * cria um arquivo de 2MB de daods aleatórios
 
+# problema 35 - I
+    wc -l README.txt
+
+* conta as linhas do README.t
