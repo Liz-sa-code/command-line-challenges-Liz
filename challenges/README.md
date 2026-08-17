@@ -176,3 +176,9 @@
     wc -l README.txt
 
 * conta as linhas do README.t
+
+# problema 36 - b 
+    tac README.txt
+
+* mostra README.txt de trás para frente
+
