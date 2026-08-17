@@ -125,4 +125,9 @@
 # problema 25 - b
     ps aux
 
-* mostra todos os processos
+* mostra todos os processos 
+
+# problema 26 - b
+    nproc
+
+* mostra os números de processadores/cores
