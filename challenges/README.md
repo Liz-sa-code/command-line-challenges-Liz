@@ -246,3 +246,8 @@
 
 * encontra arquivos duplicados de file001.rand
 
+# problema 49 - a - b - a
+    1 - touch supercalifragilisticexpialidocious.txt
+    2 - rm -f
+
+* cria e remove o arquivo usando no máximo 5 caracteres
