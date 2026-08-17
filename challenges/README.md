@@ -137,3 +137,7 @@
 
 * mostra a versão do kernel
 
+# problema 28 - b 
+    grep -rl "You found the needle in the haystack!" bunch_of_files/
+
+* encontra o arquivo com determinada frase
