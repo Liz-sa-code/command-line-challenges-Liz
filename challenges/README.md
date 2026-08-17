@@ -235,3 +235,8 @@
     sed -i 's/You found the needle in the haystack!/The needle has been removed./' bunch_of_files/arquivo.txt
 
 * substitui a frase encontrada no desafio 28
+
+# problema 47 - a
+    tr ',' '|' < people.csv > people_pipe.csv
+
+* transforma , em |
