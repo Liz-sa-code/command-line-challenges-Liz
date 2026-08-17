@@ -228,3 +228,10 @@
     find . -type f -name '*deleteme*' -delete
 
 * remove os arquivos que tenham deleteme no nome
+
+# problema 46 - I 
+    grep -rl "You found the needle in the haystack!" bunch_of_files/
+
+    sed -i 's/You found the needle in the haystack!/The needle has been removed./' bunch_of_files/arquivo.txt
+
+* substitui a frase encontrada no desafio 28
