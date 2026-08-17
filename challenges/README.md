@@ -240,3 +240,9 @@
     tr ',' '|' < people.csv > people_pipe.csv
 
 * transforma , em |
+
+# problema 48 - a
+    find bunch_of_files -type f -exec cmp -s bunch_of_files/file001.rand {} \; -print
+
+* encontra arquivos duplicados de file001.rand
+
