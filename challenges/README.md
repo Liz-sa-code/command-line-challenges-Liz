@@ -166,3 +166,13 @@
     dd if=/dev/zero of=1mb.bin bs=1M count=1
 
 * cria um arquivo de 1MB cheio de zero
+
+# problema 34 - I 
+    dd if=/dev/urandom of=2mb.bin bs=1M count=2
+
+* cria um arquivo de 2MB de daods aleatórios
+
+# problema 35 - I
+    wc -l README.txt
+
+* conta as linhas do README.t
