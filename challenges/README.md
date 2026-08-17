@@ -157,4 +157,7 @@
 
 * mostra a diferença entre os arquivos
 
+# problema 32 - I 
+    echo "Hello"; sleep 5; echo "world!"
 
+* printa hello, espera 5 segundos e printa world
