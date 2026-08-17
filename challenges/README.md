@@ -191,3 +191,9 @@
     cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
 
 * conta os sobrenome únicos
+
+# problema 39 - a
+    cut -d',' -f2 people.csv | sort -u | wc -l
+    cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
+
+* compara e verifica se o cabeçalho ta sendo contado 
