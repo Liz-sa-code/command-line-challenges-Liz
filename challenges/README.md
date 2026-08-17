@@ -186,3 +186,8 @@
     cut -d',' -f2 people.csv
 
 * mostra todos os sobrenomes na segunda coluna do arquivo people.csv
+
+# problema 38 - a
+    cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
+
+* conta os sobrenome únicos
