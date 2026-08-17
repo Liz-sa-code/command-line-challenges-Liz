@@ -208,3 +208,8 @@
     time cut -d',' -f2 people.csv | sed '1d' | sort -u | wc -l
 
 * compara qual método é mais rápido 
+
+# problema 42 - a
+    awk -F',' '$1=="Josiah"{count++} END{print count}' people.csv
+
+* compara as pessoas chamadas Josiah
