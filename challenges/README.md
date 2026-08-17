@@ -140,4 +140,9 @@
 # problema 28 - b 
     grep -rl "You found the needle in the haystack!" bunch_of_files/
 
-* encontra o arquivo com determinada frase
+* encontra o arquivo com determinada frase  
+
+# problema 29 - b 
+    head -n 25 people.csv
+
+* mostra as primeiras 25 linhas do people.csv
