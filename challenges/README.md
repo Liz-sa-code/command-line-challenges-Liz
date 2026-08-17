@@ -213,3 +213,8 @@
     awk -F',' '$1=="Josiah"{count++} END{print count}' people.csv
 
 * compara as pessoas chamadas Josiah
+
+# problema 43 - I 
+    find . -maxdepth 1 -type f | wc -l
+
+* conta arquivos, sem contar diretórios
