@@ -251,3 +251,8 @@
     2 - rm -f
 
 * cria e remove o arquivo usando no máximo 5 caracteres
+
+# problema 50 - a
+    touch {a,b,c}-{1,2,3}.txt
+
+* cria 9 arquivos 
