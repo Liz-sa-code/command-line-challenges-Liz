@@ -197,3 +197,8 @@
     cut -d',' -f2 people.csv | tail -n +2 | sort -u | wc -l
 
 * compara e verifica se o cabeçalho ta sendo contado 
+
+# problema 40 - a
+    cut -d',' -f2 people.csv | sed '1d' | sort -u | wc -l
+
+* segunda forma de excluir o cabeçalho
