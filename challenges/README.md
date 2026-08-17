@@ -151,3 +151,10 @@
     tail -n 25 people.csv
 
 * mostra as últimas 25 linhas do people.csv
+
+# problema 31 - I 
+    diff greeting1.txt greeting2.txt
+
+* mostra a diferença entre os arquivos
+
+
