@@ -160,4 +160,9 @@
 # problema 32 - I 
     echo "Hello"; sleep 5; echo "world!"
 
-* printa hello, espera 5 segundos e printa world
+* printa hello, espera 5 segundos e printa world    
+
+# problema 33 - I 
+    dd if=/dev/zero of=1mb.bin bs=1M count=1
+
+* cria um arquivo de 1MB cheio de zero
