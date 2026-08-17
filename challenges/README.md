@@ -131,3 +131,9 @@
     nproc
 
 * mostra os números de processadores/cores
+
+# problema 27 - b 
+    uname -r 
+
+* mostra a versão do kernel
+
