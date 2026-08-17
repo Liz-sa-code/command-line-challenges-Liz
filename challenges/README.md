@@ -218,3 +218,8 @@
     find . -maxdepth 1 -type f | wc -l
 
 * conta arquivos, sem contar diretórios
+
+# problema 44 - I 
+    find . -mindepth 1 -maxdepth 1 -type d | wc -l
+
+* conta os subdiretórios
